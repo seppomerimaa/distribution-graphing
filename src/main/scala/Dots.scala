@@ -3,6 +3,9 @@ import javax.swing.{JFrame, JComponent, Timer}
 import java.awt.{Color,Dimension,Graphics,Graphics2D, BasicStroke}
 import java.awt.geom._
 
+/**
+ * Draw some dots on a grid. For no reason at all.
+ */
 object Dots extends App{
   val fr = new JFrame("Dots") // your enclosing app window
 
