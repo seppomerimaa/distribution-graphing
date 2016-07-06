@@ -1,4 +1,4 @@
-distributions_app
+Probability Distributions App
 =================
 
 An ugly little probability distribution graphing app.
